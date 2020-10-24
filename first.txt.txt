@@ -1,3 +1,4 @@
 konnnichi
 git add
 git commit
+git rm
