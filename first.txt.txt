@@ -1,0 +1,3 @@
+konnnichi
+git add
+git commit
